@@ -81,7 +81,17 @@ footer {
 
 /* start positioning styles */
 
+.text-align-center{
+   text-align:center;
+   background-color:aqua;
+}
 
+.margin-auto > div{
+   margin:auto;
+   width:50%;
+   background-color:beige;
+   text-align:center;
+}
 
 /* end positioning styles */
 
